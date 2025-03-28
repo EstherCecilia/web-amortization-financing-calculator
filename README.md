@@ -1,5 +1,7 @@
 # Calculadora de Financiamento
 
+<img width="1506" alt="Captura de Tela 2025-03-28 às 09 58 49" src="https://github.com/user-attachments/assets/433f9c81-799b-40eb-a341-6ceb6dd61278" />
+
 ## Descrição
 
 Este projeto é uma calculadora de financiamento que permite estimar o tempo necessário para quitar um empréstimo, considerando pagamentos mensais fixos e amortizações extras periódicas.
