@@ -1,6 +1,7 @@
 # Calculadora de Financiamento
 
-<img width="1506" alt="Captura de Tela 2025-03-28 às 09 58 49" src="https://github.com/user-attachments/assets/433f9c81-799b-40eb-a341-6ceb6dd61278" />
+
+<img width="1492" alt="Captura de Tela 2025-03-28 às 09 59 29" src="https://github.com/user-attachments/assets/50a2abb6-3b68-4bfb-a588-804f75ee5d4f" />
 
 ## Descrição
 
